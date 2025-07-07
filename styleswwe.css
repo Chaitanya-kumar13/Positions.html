@@ -1,0 +1,19 @@
+.container{
+    margin:100px;
+    /* border:10px; */
+    width:100%;
+
+}
+.S1,.S2,.S3,.S4{
+    /* border:10px; */
+    width:200px;
+   display: inline-block;
+}
+img{
+    width:100%;
+    padding: 10px;
+}
+h3,p,h4{
+text-align: center;
+padding: 10px;
+}
